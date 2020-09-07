@@ -20,4 +20,4 @@
 * Popup dialog if object out of range of kinect sensors
 
 ## Screenshot
-[screenshot]: https://github.com/ipandu/kinect-motion-capture/Screenshot/KinectApp.png "Application Screenshot"
+![Application Screenshot](https://github.com/ipandu/kinect-motion-capture/blob/master/Screenshot/KinectApp.png)
